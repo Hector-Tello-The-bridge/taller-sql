@@ -4,7 +4,7 @@
 
 # **BOOTCAMP FULLSTACK**
 
-## Fullstack FT Vitoria Abril 2026
+## Fullstack FT Vitoria Octubre 2026
 
 ---
 
